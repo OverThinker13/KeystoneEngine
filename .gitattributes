@@ -1,0 +1,6 @@
+# Normalize line endings: the repository stores LF, Windows checkouts may use CRLF.
+* text=auto eol=lf
+
+*.png binary
+*.bmp binary
+*.jpg binary

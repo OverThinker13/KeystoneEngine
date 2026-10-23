@@ -1,0 +1,24 @@
+# 构建产物
+build/
+build-*/
+out/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# 二进制与中间文件
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+
+# 杂项
+*.log
+Thumbs.db
+.DS_Store

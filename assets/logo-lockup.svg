@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 300" width="1140" height="300" role="img" aria-label="KeystoneEngine">
+  <title>KeystoneEngine</title>
+  <g transform="translate(9,9) scale(0.550781)">
+    <polygon points="54.00,420.05 54.00,297.29 458.00,297.29 458.00,420.05" fill="#131110"/>
+    <polygon points="299.59,326.80 141.18,91.95 54.00,182.22 197.82,395.45" fill="#131110"/>
+    <polygon points="299.59,395.45 458.00,160.60 341.64,113.58 197.82,326.80" fill="#131110"/>
+    <polygon points="222.74,311.46 180.25,167.46 317.17,167.46 274.67,311.46" fill="#48E284"/>
+  </g>
+  <g font-family="Bahnschrift, Segoe UI, Arial, sans-serif">
+    <text x="351" y="150.2" font-size="94.5"
+          font-weight="700" letter-spacing="1.2" fill="#131110">KEYSTONE</text>
+    <text x="354" y="216.1" font-size="45.6"
+          font-weight="400" letter-spacing="17.4" fill="#7A7268">ENGINE</text>
+  </g>
+</svg>
